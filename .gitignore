@@ -1,0 +1,21 @@
+# Private notes / downloaded originals
+context.md
+og/
+
+# Full-resolution photos (the repo uses the compressed .jpg copies)
+imgs/board_a.png
+imgs/board_b.png
+imgs/thumb-image.png
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Build output
+build/
+*.bin
+*.elf
+*.hex
