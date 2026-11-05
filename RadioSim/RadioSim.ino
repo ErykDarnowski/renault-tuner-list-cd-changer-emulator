@@ -1,5 +1,5 @@
 /*
-  RadioSim - pretends to be a Renault Tuner List head unit so the ESP32
+  RadioSim - simulates a Renault Tuner List head unit so the ESP32
   TLCDCEmu changer emulator can be tested on the bench, without the car.
 
   Wiring (to the changer-connector side of your emulator board):
